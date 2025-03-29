@@ -1,7 +1,7 @@
 
 import java.util.Scanner;
 
-public class Ex06 {
+public class NumAleatorio {
     public static void main(String[] args) {
         int n1, n2, maiorN, menorN, nSorteado;
 

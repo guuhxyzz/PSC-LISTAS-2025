@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Ex04 {
+public class CalculoArea {
     public static void main(String[] args) {
         int operacao;
         double raio, perimetro, area;

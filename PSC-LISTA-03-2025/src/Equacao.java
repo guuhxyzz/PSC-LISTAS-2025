@@ -1,7 +1,7 @@
 
 import java.util.Scanner;
 
-public class Ex03 {
+public class Equacao {
     public static void main(String[] args) {
         double a, b, c, delta, raiz;
         try (Scanner scanner = new Scanner(System.in)) {

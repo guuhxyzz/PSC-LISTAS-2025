@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Ex02 {
+public class MaquinaVendas {
     public static void main(String[] args) {
         String maisProduto;
         int nota50 = 0, nota20 = 0, nota10 = 0, nota5 = 0, nota2 = 0, nota1 = 0;

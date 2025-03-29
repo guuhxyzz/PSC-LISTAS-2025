@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Ex05 {
+public class CalculadoraSimples {
     public static void main(String[] args) {
         double n1, n2, opcao;
         int operacao;
