@@ -35,8 +35,7 @@ lado do outro.
 8. Faça um programa que leia 5 números e informe a soma e a média dos
 números.
 
-9. Faça um programa que imprima na tela apenas os números ímpares entre 1 e
-50.
+9. Faça um programa que imprima na tela apenas os números ímpares entre 1 e 50.
 
 10. Faça um programa que receba dois números inteiros e gere os números
 inteiros que estão no intervalo compreendido por eles.
